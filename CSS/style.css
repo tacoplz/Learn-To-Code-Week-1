@@ -5,7 +5,7 @@ body {
 	font-family: 'Pacifico', sans-serif;
 	color: #e5e5e5;
 	font-size: 12px;
-	background:#bfbfbf;
+	background:#9EFAAA;
 
 
 }
@@ -35,7 +35,7 @@ p {
 }
 
 a {
-	color: #3e3e3e;
+	color: #25F33F;
 }
 
 
@@ -92,7 +92,7 @@ a {
 	height: 50px;
 	z-index: 1000;
 	width: 100%;
-	background: #0977bc;
+	background: #25F33F;
 }
 
 .subMenu .inner {
@@ -157,4 +157,8 @@ a {
 
 .s3 {
 	background: #1b83b3;
+}
+
+.image {
+	position: center;
 }
